@@ -61,3 +61,15 @@ Unit tests:
   imapsync --tests
 
 
+Note:- Following Perl Modules are required for imapsync. Kinsly cross verify.
+
+  perl-Data-Uniqid
+  perl-IO-Tee             
+  perl-Mail-IMAPClient
+  perl-NTLM      
+  perl-Parse-RecDescent 
+  perl-TermReadKey
+  perl-Test-Pod    
+  perl-Test-Simple        
+  perl-Unicode-String
+  perl-File-Copy-Recursive
